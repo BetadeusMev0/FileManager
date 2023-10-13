@@ -1,0 +1,18 @@
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\bin\Debug\net6.0-windows\FileManager V 2.0.exe
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\bin\Debug\net6.0-windows\FileManager V 2.0.deps.json
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\bin\Debug\net6.0-windows\FileManager V 2.0.runtimeconfig.json
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\bin\Debug\net6.0-windows\FileManager V 2.0.dll
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\bin\Debug\net6.0-windows\FileManager V 2.0.pdb
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\obj\Debug\net6.0-windows\FileManager V 2.0.csproj.AssemblyReference.cache
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\obj\Debug\net6.0-windows\FileManager_V_2._0.Form1.resources
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\obj\Debug\net6.0-windows\FileManager V 2.0.csproj.GenerateResource.cache
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\obj\Debug\net6.0-windows\FileManager V 2.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\obj\Debug\net6.0-windows\FileManager V 2.0.AssemblyInfoInputs.cache
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\obj\Debug\net6.0-windows\FileManager V 2.0.AssemblyInfo.cs
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\obj\Debug\net6.0-windows\FileManager V 2.0.csproj.CoreCompileInputs.cache
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\obj\Debug\net6.0-windows\FileManager V 2.0.dll
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\obj\Debug\net6.0-windows\refint\FileManager V 2.0.dll
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\obj\Debug\net6.0-windows\FileManager V 2.0.pdb
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\obj\Debug\net6.0-windows\FileManager V 2.0.genruntimeconfig.cache
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\obj\Debug\net6.0-windows\ref\FileManager V 2.0.dll
+E:\VS PROJECT\FileManager V 2.0\FileManager V 2.0\obj\Debug\net6.0-windows\FileManager_V_2._0.Form2.resources
